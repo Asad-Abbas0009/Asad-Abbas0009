@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning javaScript.
 - 💞️ I’m looking to collaborate on web-development_stack.
 - 📫 How to reach me asadabbas4338@gmail.com
-- 😄 Pronouns: ..
-- ⚡ Fun fact: ...
 
 <!---
 Asad-Abbas0009/Asad-Abbas0009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
